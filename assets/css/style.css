@@ -10,17 +10,17 @@
 }
 
 .encabezado {
-    background-color: green;
+    grid-area:encabezado;
 
     
 }
 .contenido {
-    background-color: red;
+    grid-area:contenido;
 
 }
 
 .rodapie { 
-    background-color: blue;
+    grid-area:rodapie;
 
     
 }
